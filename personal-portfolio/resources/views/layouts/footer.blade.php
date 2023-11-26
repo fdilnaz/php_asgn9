@@ -7,10 +7,10 @@
                 </div>
                 <div class="col-md-4 text-center">
                     <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-github"></i></a>
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://github.com/fdilnaz"><i class="fab fa-github"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://bd.linkedin.com/in/fdilnaz"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://www.instagram.com/fdilnaz/"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://www.facebook.com/fdilnaz/"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </div>
